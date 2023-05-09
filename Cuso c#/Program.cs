@@ -1,10 +1,14 @@
 ﻿
 using Cuso_c_;
 
-EjercicioSesion4 sesion4 = new EjercicioSesion4();
-sesion4.Ejerccio1();
-sesion4.Ejerccio2();
-sesion4.Ejercicio3();
+EjercicioSession5 session5 = new EjercicioSession5();
+//session5.Ejercicio1();
+session5.Ejercicio2();
+
+//EjercicioSesion4 sesion4 = new EjercicioSesion4();
+//sesion4.Ejerccio1();
+//sesion4.Ejerccio2();
+//sesion4.Ejercicio3();
 
 //Clientee misCooerdenadas = new("Liz Villa", 74125896, "Usulutan, El salvador", "Lisvilla@gmail.com", true);
 //Console.WriteLine(misCooerdenadas);
